@@ -1,0 +1,916 @@
+{
+    "chapters": [
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Fatihah",
+            "versesCount": 7,
+            "translatedName": "开端章",
+            "slug": "开端章",
+            "id": 1
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "Al-Baqarah",
+            "versesCount": 286,
+            "translatedName": "黄牛",
+            "slug": "黄牛",
+            "id": 2
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "Ali 'Imran",
+            "versesCount": 200,
+            "translatedName": "仪姆兰的家属",
+            "slug": "仪姆兰的家属",
+            "id": 3
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "An-Nisa",
+            "versesCount": 176,
+            "translatedName": "妇女",
+            "slug": "妇女",
+            "id": 4
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "Al-Ma'idah",
+            "versesCount": 120,
+            "translatedName": "筵席",
+            "slug": "筵席",
+            "id": 5
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-An'am",
+            "versesCount": 165,
+            "translatedName": "牲畜",
+            "slug": "牲畜",
+            "id": 6
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-A'raf",
+            "versesCount": 206,
+            "translatedName": "高处",
+            "slug": "高处",
+            "id": 7
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "Al-Anfal",
+            "versesCount": 75,
+            "translatedName": "战利品",
+            "slug": "战利品",
+            "id": 8
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "At-Tawbah",
+            "versesCount": 129,
+            "translatedName": "忏悔",
+            "slug": "忏悔",
+            "id": 9
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Yunus",
+            "versesCount": 109,
+            "translatedName": "优努斯",
+            "slug": "优努斯",
+            "id": 10
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Hud",
+            "versesCount": 123,
+            "translatedName": "呼德",
+            "slug": "呼德",
+            "id": 11
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Yusuf",
+            "versesCount": 111,
+            "translatedName": "优素福",
+            "slug": "优素福",
+            "id": 12
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "Ar-Ra'd",
+            "versesCount": 43,
+            "translatedName": "雷霆",
+            "slug": "雷霆",
+            "id": 13
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Ibrahim",
+            "versesCount": 52,
+            "translatedName": "易卜拉欣",
+            "slug": "易卜拉欣",
+            "id": 14
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Hijr",
+            "versesCount": 99,
+            "translatedName": "石谷",
+            "slug": "石谷",
+            "id": 15
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "An-Nahl",
+            "versesCount": 128,
+            "translatedName": "蜜蜂",
+            "slug": "蜜蜂",
+            "id": 16
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Isra",
+            "versesCount": 111,
+            "translatedName": "夜行",
+            "slug": "夜行",
+            "id": 17
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Kahf",
+            "versesCount": 110,
+            "translatedName": "山洞",
+            "slug": "山洞",
+            "id": 18
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Maryam",
+            "versesCount": 98,
+            "translatedName": "麦尔彦",
+            "slug": "麦尔彦",
+            "id": 19
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Taha",
+            "versesCount": 135,
+            "translatedName": "塔哈",
+            "slug": "塔哈",
+            "id": 20
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Anbya",
+            "versesCount": 112,
+            "translatedName": "众先知",
+            "slug": "众先知",
+            "id": 21
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "Al-Hajj",
+            "versesCount": 78,
+            "translatedName": "朝觐",
+            "slug": "朝觐",
+            "id": 22
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Mu'minun",
+            "versesCount": 118,
+            "translatedName": "信士",
+            "slug": "信士",
+            "id": 23
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "An-Nur",
+            "versesCount": 64,
+            "translatedName": "光明",
+            "slug": "光明",
+            "id": 24
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Furqan",
+            "versesCount": 77,
+            "translatedName": "准则",
+            "slug": "准则",
+            "id": 25
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Ash-Shu'ara",
+            "versesCount": 227,
+            "translatedName": "众诗人",
+            "slug": "众诗人",
+            "id": 26
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "An-Naml",
+            "versesCount": 93,
+            "translatedName": "蚂蚁",
+            "slug": "蚂蚁",
+            "id": 27
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Qasas",
+            "versesCount": 88,
+            "translatedName": "故事",
+            "slug": "故事",
+            "id": 28
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-'Ankabut",
+            "versesCount": 69,
+            "translatedName": "蜘蛛",
+            "slug": "蜘蛛",
+            "id": 29
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Ar-Rum",
+            "versesCount": 60,
+            "translatedName": "罗马人",
+            "slug": "罗马人",
+            "id": 30
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Luqman",
+            "versesCount": 34,
+            "translatedName": "鲁格曼",
+            "slug": "鲁格曼",
+            "id": 31
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "As-Sajdah",
+            "versesCount": 30,
+            "translatedName": "叩头",
+            "slug": "叩头",
+            "id": 32
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "Al-Ahzab",
+            "versesCount": 73,
+            "translatedName": "同盟军",
+            "slug": "同盟军",
+            "id": 33
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Saba",
+            "versesCount": 54,
+            "translatedName": "赛伯邑",
+            "slug": "赛伯邑",
+            "id": 34
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Fatir",
+            "versesCount": 45,
+            "translatedName": "创造者",
+            "slug": "创造者",
+            "id": 35
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Ya-Sin",
+            "versesCount": 83,
+            "translatedName": "雅辛",
+            "slug": "雅辛",
+            "id": 36
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "As-Saffat",
+            "versesCount": 182,
+            "translatedName": "列班者",
+            "slug": "列班者",
+            "id": 37
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Sad",
+            "versesCount": 88,
+            "translatedName": "萨德",
+            "slug": "萨德",
+            "id": 38
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Az-Zumar",
+            "versesCount": 75,
+            "translatedName": "队伍",
+            "slug": "队伍",
+            "id": 39
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Ghafir",
+            "versesCount": 85,
+            "translatedName": "赦宥者",
+            "slug": "赦宥者",
+            "id": 40
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Fussilat",
+            "versesCount": 54,
+            "translatedName": "奉绥来特",
+            "slug": "奉绥来特",
+            "id": 41
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Ash-Shuraa",
+            "versesCount": 53,
+            "translatedName": "协商",
+            "slug": "协商",
+            "id": 42
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Az-Zukhruf",
+            "versesCount": 89,
+            "translatedName": "金饰",
+            "slug": "金饰",
+            "id": 43
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Ad-Dukhan",
+            "versesCount": 59,
+            "translatedName": "烟雾",
+            "slug": "烟雾",
+            "id": 44
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Jathiyah",
+            "versesCount": 37,
+            "translatedName": "屈膝",
+            "slug": "屈膝",
+            "id": 45
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Ahqaf",
+            "versesCount": 35,
+            "translatedName": "沙丘",
+            "slug": "沙丘",
+            "id": 46
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "Muhammad",
+            "versesCount": 38,
+            "translatedName": "穆罕默德",
+            "slug": "穆罕默德",
+            "id": 47
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "Al-Fath",
+            "versesCount": 29,
+            "translatedName": "胜利",
+            "slug": "胜利",
+            "id": 48
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "Al-Hujurat",
+            "versesCount": 18,
+            "translatedName": "寝室",
+            "slug": "寝室",
+            "id": 49
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Qaf",
+            "versesCount": 45,
+            "translatedName": "戛弗",
+            "slug": "戛弗",
+            "id": 50
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Adh-Dhariyat",
+            "versesCount": 60,
+            "translatedName": "播种者",
+            "slug": "播种者",
+            "id": 51
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "At-Tur",
+            "versesCount": 49,
+            "translatedName": "山岳",
+            "slug": "山岳",
+            "id": 52
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "An-Najm",
+            "versesCount": 62,
+            "translatedName": "星宿",
+            "slug": "星宿",
+            "id": 53
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Qamar",
+            "versesCount": 55,
+            "translatedName": "月亮",
+            "slug": "月亮",
+            "id": 54
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "Ar-Rahman",
+            "versesCount": 78,
+            "translatedName": "至仁主",
+            "slug": "至仁主",
+            "id": 55
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Waqi'ah",
+            "versesCount": 96,
+            "translatedName": "大事",
+            "slug": "大事",
+            "id": 56
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "Al-Hadid",
+            "versesCount": 29,
+            "translatedName": "铁",
+            "slug": "铁",
+            "id": 57
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "Al-Mujadila",
+            "versesCount": 22,
+            "translatedName": "辩诉者",
+            "slug": "辩诉者",
+            "id": 58
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "Al-Hashr",
+            "versesCount": 24,
+            "translatedName": "放逐",
+            "slug": "放逐",
+            "id": 59
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "Al-Mumtahanah",
+            "versesCount": 13,
+            "translatedName": "受考验的妇人",
+            "slug": "受考验的妇人",
+            "id": 60
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "As-Saf",
+            "versesCount": 14,
+            "translatedName": "列阵",
+            "slug": "列阵",
+            "id": 61
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "Al-Jumu'ah",
+            "versesCount": 11,
+            "translatedName": "聚礼",
+            "slug": "聚礼",
+            "id": 62
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "Al-Munafiqun",
+            "versesCount": 11,
+            "translatedName": "伪信者",
+            "slug": "伪信者",
+            "id": 63
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "At-Taghabun",
+            "versesCount": 18,
+            "translatedName": "相欺",
+            "slug": "相欺",
+            "id": 64
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "At-Talaq",
+            "versesCount": 12,
+            "translatedName": "离婚",
+            "slug": "离婚",
+            "id": 65
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "At-Tahrim",
+            "versesCount": 12,
+            "translatedName": "禁戒",
+            "slug": "禁戒",
+            "id": 66
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Mulk",
+            "versesCount": 30,
+            "translatedName": "国权",
+            "slug": "国权",
+            "id": 67
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Qalam",
+            "versesCount": 52,
+            "translatedName": "笔",
+            "slug": "笔",
+            "id": 68
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Haqqah",
+            "versesCount": 52,
+            "translatedName": "真灾",
+            "slug": "真灾",
+            "id": 69
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Ma'arij",
+            "versesCount": 44,
+            "translatedName": "天梯",
+            "slug": "天梯",
+            "id": 70
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Nuh",
+            "versesCount": 28,
+            "translatedName": "努哈",
+            "slug": "努哈",
+            "id": 71
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Jinn",
+            "versesCount": 28,
+            "translatedName": "精灵",
+            "slug": "精灵",
+            "id": 72
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Muzzammil",
+            "versesCount": 20,
+            "translatedName": "披衣的人",
+            "slug": "披衣的人",
+            "id": 73
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Muddaththir",
+            "versesCount": 56,
+            "translatedName": "盖被的人",
+            "slug": "盖被的人",
+            "id": 74
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Qiyamah",
+            "versesCount": 40,
+            "translatedName": "复活",
+            "slug": "复活",
+            "id": 75
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "Al-Insan",
+            "versesCount": 31,
+            "translatedName": "人",
+            "slug": "人",
+            "id": 76
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Mursalat",
+            "versesCount": 50,
+            "translatedName": "天使",
+            "slug": "天使",
+            "id": 77
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "An-Naba",
+            "versesCount": 40,
+            "translatedName": "消息",
+            "slug": "消息",
+            "id": 78
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "An-Nazi'at",
+            "versesCount": 46,
+            "translatedName": "急掣的",
+            "slug": "急掣的",
+            "id": 79
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "'Abasa",
+            "versesCount": 42,
+            "translatedName": "皱眉",
+            "slug": "皱眉",
+            "id": 80
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "At-Takwir",
+            "versesCount": 29,
+            "translatedName": "黯黮",
+            "slug": "黯黮",
+            "id": 81
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Infitar",
+            "versesCount": 19,
+            "translatedName": "破裂",
+            "slug": "破裂",
+            "id": 82
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Mutaffifin",
+            "versesCount": 36,
+            "translatedName": "称量不公",
+            "slug": "称量不公",
+            "id": 83
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Inshiqaq",
+            "versesCount": 25,
+            "translatedName": "绽裂",
+            "slug": "绽裂",
+            "id": 84
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Buruj",
+            "versesCount": 22,
+            "translatedName": "十二宫",
+            "slug": "十二宫",
+            "id": 85
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "At-Tariq",
+            "versesCount": 17,
+            "translatedName": "启明星",
+            "slug": "启明星",
+            "id": 86
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-A'la",
+            "versesCount": 19,
+            "translatedName": "至尊",
+            "slug": "至尊",
+            "id": 87
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Ghashiyah",
+            "versesCount": 26,
+            "translatedName": "大灾",
+            "slug": "大灾",
+            "id": 88
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Fajr",
+            "versesCount": 30,
+            "translatedName": "黎明",
+            "slug": "黎明",
+            "id": 89
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Balad",
+            "versesCount": 20,
+            "translatedName": "地方",
+            "slug": "地方",
+            "id": 90
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Ash-Shams",
+            "versesCount": 15,
+            "translatedName": "太阳",
+            "slug": "太阳",
+            "id": 91
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Layl",
+            "versesCount": 21,
+            "translatedName": "黑夜",
+            "slug": "黑夜",
+            "id": 92
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Ad-Duhaa",
+            "versesCount": 11,
+            "translatedName": "上午",
+            "slug": "上午",
+            "id": 93
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Ash-Sharh",
+            "versesCount": 8,
+            "translatedName": "开拓",
+            "slug": "开拓",
+            "id": 94
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "At-Tin",
+            "versesCount": 8,
+            "translatedName": "无花果",
+            "slug": "无花果",
+            "id": 95
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-'Alaq",
+            "versesCount": 19,
+            "translatedName": "血块",
+            "slug": "血块",
+            "id": 96
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Qadr",
+            "versesCount": 5,
+            "translatedName": "高贵",
+            "slug": "高贵",
+            "id": 97
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "Al-Bayyinah",
+            "versesCount": 8,
+            "translatedName": "明证",
+            "slug": "明证",
+            "id": 98
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "Az-Zalzalah",
+            "versesCount": 8,
+            "translatedName": "地震",
+            "slug": "地震",
+            "id": 99
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-'Adiyat",
+            "versesCount": 11,
+            "translatedName": "奔驰的马队",
+            "slug": "奔驰的马队",
+            "id": 100
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Qari'ah",
+            "versesCount": 11,
+            "translatedName": "大难",
+            "slug": "大难",
+            "id": 101
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "At-Takathur",
+            "versesCount": 8,
+            "translatedName": "竞赛富遮",
+            "slug": "竞赛富遮",
+            "id": 102
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-'Asr",
+            "versesCount": 3,
+            "translatedName": "时光",
+            "slug": "时光",
+            "id": 103
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Humazah",
+            "versesCount": 9,
+            "translatedName": "诽谤者",
+            "slug": "诽谤者",
+            "id": 104
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Fil",
+            "versesCount": 5,
+            "translatedName": "象",
+            "slug": "象",
+            "id": 105
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Quraysh",
+            "versesCount": 4,
+            "translatedName": "古来氏",
+            "slug": "古来氏",
+            "id": 106
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Ma'un",
+            "versesCount": 7,
+            "translatedName": "什物",
+            "slug": "什物",
+            "id": 107
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Kawthar",
+            "versesCount": 3,
+            "translatedName": "多福",
+            "slug": "多福",
+            "id": 108
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Kafirun",
+            "versesCount": 6,
+            "translatedName": "不信道的人们",
+            "slug": "不信道的人们",
+            "id": 109
+        },
+        {
+            "revelationPlace": "madinah",
+            "transliteratedName": "An-Nasr",
+            "versesCount": 3,
+            "translatedName": "援助",
+            "slug": "援助",
+            "id": 110
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Masad",
+            "versesCount": 5,
+            "translatedName": "火焰",
+            "slug": "火焰",
+            "id": 111
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Ikhlas",
+            "versesCount": 4,
+            "translatedName": "忠诚",
+            "slug": "忠诚",
+            "id": 112
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "Al-Falaq",
+            "versesCount": 5,
+            "translatedName": "曙光",
+            "slug": "曙光",
+            "id": 113
+        },
+        {
+            "revelationPlace": "makkah",
+            "transliteratedName": "An-Nas",
+            "versesCount": 6,
+            "translatedName": "世人",
+            "slug": "世人",
+            "id": 114
+        }
+    ]
+}
